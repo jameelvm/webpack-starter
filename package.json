@@ -1,0 +1,16 @@
+{
+  "name": "webpackstarter",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --content-base src/ --inline"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.16.4",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
+  }
+}
